@@ -1,0 +1,76 @@
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe.config
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.pdb
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.dll
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.xml
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csprojResolveAssemblyReference.cache
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Form1.resources
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Properties.Resources.resources
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csproj.GenerateResource.Cache
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.exe
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.pdb
+c:\users\newlife\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewScope.resources
+C:\Users\NEWLIFE\documents\visual studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewCategory.resources
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCaption.resources
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmCreateCaption.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csprojResolveAssemblyReference.cache
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Form1.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCaption.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmCreateCaption.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewCategory.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewScope.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Properties.Resources.resources
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csproj.GenerateResource.Cache
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.exe
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.pdb
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe.config
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.pdb
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NEWLIFE\Downloads\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmEditCaption.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe.config
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe.manifest
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.application
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.exe
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\CaptionBuilder.pdb
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Form1.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCaption.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmCreateCaption.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmEditCaption.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewCategory.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewScope.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.Properties.Resources.resources
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csproj.GenerateResource.cache
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.exe.manifest
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.application
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.csproj.CopyComplete
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.exe
+C:\Users\jepstein2\Desktop\CaptionBuild\CaptionBuilder (7)\CaptionBuilder\CaptionBuilder\obj\Debug\CaptionBuilder.pdb
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\CaptionBuilder.exe.config
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\CaptionBuilder.exe.manifest
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\CaptionBuilder.application
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\CaptionBuilder.exe
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\CaptionBuilder.pdb
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.Form1.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCaption.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmCreateCaption.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmEditCaption.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewCategory.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmNewScope.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.Properties.Resources.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.csproj.GenerateResource.Cache
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.exe.manifest
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.application
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.exe
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.pdb
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmSave.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.csprojResolveAssemblyReference.cache
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddTag.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCatToScope.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmAddCompleteItem.resources
+C:\Users\NEWLIFE\Documents\dkfa\CaptionBuilder\Solution FIles\CaptionBuilder\obj\Debug\CaptionBuilder.frmDbPath.resources
